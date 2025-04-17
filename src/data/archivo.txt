@@ -1,0 +1,12 @@
+ir a la tienda|Comprar viveres|2025-04-16 20:14:48.754638|2025-04-17 20:14:48.754638
+
+ir a la tienda|Comprar viveres|2025-04-16 20:14:48.754638|2025-04-17 20:14:48.754638
+
+desarrollar|aprender desarrollo de Sofware|2025-04-16 20:15:19.002659|2025-05-01 20:15:19.002659
+
+trabajar|cumplir con el horario de trabajo|2025-04-16 20:15:37.290027|2025-05-01 20:15:37.290027
+
+ver los simpsons|Ver dos capitulos al día |2025-04-16 20:17:43.057127|2025-05-16 20:17:43.057127
+
+ver la premier ligue|ver todos los cápitulos de la premier Ligue|2025-04-16 20:18:15.008484|2025-05-16 20:18:15.008484
+

@@ -17,13 +17,6 @@ class Tareas:
         self.dias_ans = dias_ans
         self.fecha_limite = self.fecha_creacion + timedelta(days=self.dias_ans)
 
-    """def ver_tarea(self):
-        return f"{self.nombre} - {self.descripcion} - {self.fecha_creacion} - {self.fecha_limite} - {self.completada}"
-
-
-    def tarea_vencida(self):
-        if self.fecha_limite < datetime.now():
-            return f"La tarea {self.nombre} esta vencida"
-        else:
-            return"""
+    def __str__(self):
+        return f"{self.nombre} - {self.descripcion} (Vence: {self.fecha_limite}"
         
